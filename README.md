@@ -9,7 +9,7 @@
 * Clone the project: 
 
 ```bash
-$ git clone https://github.com/prajwalsimpi/API-for-MajorProject.git
+$ git clone https://github.com/prajwalsimpi/edHub-Backend.git
 ```
 
 
